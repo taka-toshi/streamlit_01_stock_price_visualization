@@ -83,3 +83,8 @@ try:
 
 except:
     st.error("おっと！なにかエラーが起きているようです。")
+
+
+st.write("\n")
+st.write("参考：")
+st.write("https://www.udemy.com/course/python-streamlit/")
